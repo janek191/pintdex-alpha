@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <!--
+    Liegt die Seite nicht im Wurzelpfad, setzt `flutter build web --base-href`
+    den Pfad hier ein. Er beginnt und endet mit einem Schrägstrich.
+  -->
+  <base href="/pintdex-alpha/">
+
+  <meta charset="UTF-8">
+  <meta name="description" content="PintDex. Getränke scannen, sammeln und mit Freunden vergleichen. Nur für Personen ab 18 Jahren.">
+  <meta name="theme-color" content="#F4EFE4">
+
+  <!-- Vom Home-Bildschirm startet die Seite ohne Browserleiste, wie die App. -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="PintDex">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <title>PintDex</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body { height: 100%; margin: 0; background: #F4EFE4; }
+    #boot { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+    #boot img { width: 220px; }
+  </style>
+</head>
+<body>
+  <!-- Dasselbe Bild wie die Startseite der App, bis sie geladen ist. -->
+  <div id="boot"><img src="assets/branding/logo/pintdex-logo-mit-schrift.png" alt="PintDex"></div>
+  <script>
+    window.addEventListener('flutter-first-frame', () => document.getElementById('boot')?.remove());
+  </script>
+  <!-- Liest Etikett und Barcode auf dem Gerät, Gegenstück zu Apple Vision in der App. -->
+  <script src="scan/reader.js"></script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

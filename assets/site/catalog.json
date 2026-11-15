@@ -1,0 +1,2308 @@
+{
+  "source": "Wikidata, CC0. Logos von Wikimedia Commons, nur Dateien mit freier Lizenz. Wo kein Logo liegt, zeigt die Karte das Kürzel der Marke.",
+  "drinks": [
+    {
+      "id": "wd-Q127305",
+      "name": "Paulaner",
+      "brand": "Paulaner",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q698957",
+      "name": "Erdinger Weißbräu",
+      "brand": "Erdinger Weißbräu",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q106854",
+      "name": "Beck",
+      "brand": "Beck",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q256392",
+      "name": "Löwenbräu",
+      "brand": "Löwenbräu",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q256392.png"
+    },
+    {
+      "id": "wd-Q694218",
+      "name": "Krombacher",
+      "brand": "Krombacher",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q706698",
+      "name": "Bitburger",
+      "brand": "Bitburger",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q706698.png"
+    },
+    {
+      "id": "wd-Q696787",
+      "name": "Warsteiner",
+      "brand": "Warsteiner",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q601859",
+      "name": "Jever",
+      "brand": "Jever",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q697534",
+      "name": "Hofbräuhaus",
+      "brand": "Hofbräuhaus",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q697534.png"
+    },
+    {
+      "id": "wd-Q562552",
+      "name": "Oettinger",
+      "brand": "Oettinger",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q682660",
+      "name": "Flensburger",
+      "brand": "Flensburger",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q682660.png"
+    },
+    {
+      "id": "wd-Q566990",
+      "name": "Schlenkerla",
+      "brand": "Schlenkerla",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q568684",
+      "name": "Hacker-Pschorr",
+      "brand": "Hacker-Pschorr",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q608350",
+      "name": "Veltins",
+      "brand": "Veltins",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q568797",
+      "name": "Radeberger",
+      "brand": "Radeberger",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q568797.png"
+    },
+    {
+      "id": "wd-Q612166",
+      "name": "Franziskaner",
+      "brand": "Franziskaner",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q612166.png"
+    },
+    {
+      "id": "wd-Q787066",
+      "name": "Spatenbräu",
+      "brand": "Spatenbräu",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q314054",
+      "name": "Köstritzer",
+      "brand": "Köstritzer",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q314054.png"
+    },
+    {
+      "id": "wd-Q458609",
+      "name": "Dortmunder Actien",
+      "brand": "Dortmunder Actien",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q458609.png"
+    },
+    {
+      "id": "wd-Q460206",
+      "name": "Holsten",
+      "brand": "Holsten",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q900204",
+      "name": "Gebrüder Maisel",
+      "brand": "Gebrüder Maisel",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q2125485",
+      "name": "Radeberger Gruppe",
+      "brand": "Radeberger Gruppe",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q7587890",
+      "name": "St. Erhard",
+      "brand": "St. Erhard",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q7587890.png"
+    },
+    {
+      "id": "wd-Q762922",
+      "name": "Dortmunder U",
+      "brand": "Dortmunder U",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q863650",
+      "name": "Binding",
+      "brand": "Binding",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q863650.png"
+    },
+    {
+      "id": "wd-Q877628",
+      "name": "Eichbaum",
+      "brand": "Eichbaum",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q878149",
+      "name": "König Ludwig Schlossbrauerei Kaltenberg",
+      "brand": "König Ludwig Schlossbrauerei Kaltenberg",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q153852",
+      "name": "Cölner Hofbräu",
+      "brand": "Cölner Hofbräu",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q153852.png"
+    },
+    {
+      "id": "wd-Q448720",
+      "name": "Badische Staatsbrauerei Rothaus",
+      "brand": "Badische Staatsbrauerei Rothaus",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q448720.png"
+    },
+    {
+      "id": "wd-Q1776382",
+      "name": "Andechs",
+      "brand": "Andechs",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q1776382.png"
+    },
+    {
+      "id": "wd-Q821688",
+      "name": "Berliner Pilsner",
+      "brand": "Berliner Pilsner",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q821688.png"
+    },
+    {
+      "id": "wd-Q879110",
+      "name": "Dinkelacker",
+      "brand": "Dinkelacker",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q900109",
+      "name": "Aying",
+      "brand": "Aying",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q900109.png"
+    },
+    {
+      "id": "wd-Q900257",
+      "name": "Kaiserdom",
+      "brand": "Kaiserdom",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q900506",
+      "name": "S.Riegele",
+      "brand": "S.Riegele",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q151205",
+      "name": "Privat-Brauerei Heinrich Reissdorf",
+      "brand": "Privat-Brauerei Heinrich Reissdorf",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q323095",
+      "name": "Einbecker Brauhaus",
+      "brand": "Einbecker Brauhaus",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q323095.png"
+    },
+    {
+      "id": "wd-Q422034",
+      "name": "Aktienbrauerei Kaufbeuren",
+      "brand": "Aktienbrauerei Kaufbeuren",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1229442",
+      "name": "Distelhäuser",
+      "brand": "Distelhäuser",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1483584",
+      "name": "Fürstlich Fürstenbergische",
+      "brand": "Fürstlich Fürstenbergische",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1745170",
+      "name": "Schloss Kaltenberg",
+      "brand": "Schloss Kaltenberg",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1795931",
+      "name": "König",
+      "brand": "König",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q2252562",
+      "name": "Schwaben Bräu",
+      "brand": "Schwaben Bräu",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q20871058",
+      "name": "Hasseröder",
+      "brand": "Hasseröder",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q870325",
+      "name": "Würzburger Hofbräu",
+      "brand": "Würzburger Hofbräu",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q870325.png"
+    },
+    {
+      "id": "wd-Q880090",
+      "name": "Pinkus Müller",
+      "brand": "Pinkus Müller",
+      "category": "beer",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q880640",
+      "name": "Wernesgrüner",
+      "brand": "Wernesgrüner",
+      "category": "beer",
+      "rarity": "common",
+      "logo": "logos/Q880640.png"
+    },
+    {
+      "id": "wd-Q883074",
+      "name": "Meierei im Neuen Garten",
+      "brand": "Meierei im Neuen Garten",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q891620",
+      "name": "Bolten",
+      "brand": "Bolten",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q896511",
+      "name": "Krongut Bornstedt",
+      "brand": "Krongut Bornstedt",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1220049",
+      "name": "Diebels",
+      "brand": "Diebels",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q151607",
+      "name": "Gaffel Becker & Co",
+      "brand": "Gaffel Becker & Co",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q151607.png"
+    },
+    {
+      "id": "wd-Q323969",
+      "name": "Ganter",
+      "brand": "Ganter",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q377626",
+      "name": "Henninger",
+      "brand": "Henninger",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q436921",
+      "name": "Altenburger",
+      "brand": "Altenburger",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q436921.png"
+    },
+    {
+      "id": "wd-Q637645",
+      "name": "Arcobräu",
+      "brand": "Arcobräu",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1544436",
+      "name": "Schloss Königs Wusterhausen",
+      "brand": "Schloss Königs Wusterhausen",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1606900",
+      "name": "Alpirsbacher Klosterbräu",
+      "brand": "Alpirsbacher Klosterbräu",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1727789",
+      "name": "Waldhaus",
+      "brand": "Waldhaus",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1770148",
+      "name": "Schloss Hundisburg",
+      "brand": "Schloss Hundisburg",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1908775",
+      "name": "Mathäser",
+      "brand": "Mathäser",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q1908775.png"
+    },
+    {
+      "id": "wd-Q2360702",
+      "name": "Störtebeker Braumanufaktur",
+      "brand": "Störtebeker Braumanufaktur",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q2360702.png"
+    },
+    {
+      "id": "wd-Q2557475",
+      "name": "Weldebräu",
+      "brand": "Weldebräu",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q2557475.png"
+    },
+    {
+      "id": "wd-Q18589448",
+      "name": "Paderborner",
+      "brand": "Paderborner",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q19298958",
+      "name": "Rathaus Fürstenwalde",
+      "brand": "Rathaus Fürstenwalde",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2649044",
+      "name": "Allgäuer Brauhaus",
+      "brand": "Allgäuer Brauhaus",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q879355",
+      "name": "Hoepfner",
+      "brand": "Hoepfner",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q879355.png"
+    },
+    {
+      "id": "wd-Q900099",
+      "name": "Aldersbach",
+      "brand": "Aldersbach",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900128",
+      "name": "Bosch",
+      "brand": "Bosch",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900197",
+      "name": "Fässla",
+      "brand": "Fässla",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900213",
+      "name": "Gold Ochsen",
+      "brand": "Gold Ochsen",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900263",
+      "name": "Dithmarscher Brauerei Karl Hintz",
+      "brand": "Dithmarscher Brauerei Karl Hintz",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900285",
+      "name": "zum Kuchlbauer",
+      "brand": "zum Kuchlbauer",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900295",
+      "name": "Leikeim",
+      "brand": "Leikeim",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q900427",
+      "name": "zur Malzmühle",
+      "brand": "zur Malzmühle",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1165858",
+      "name": "Darguner",
+      "brand": "Darguner",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q136957",
+      "name": "Jacob Stauder",
+      "brand": "Jacob Stauder",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q151474",
+      "name": "Königshof",
+      "brand": "Königshof",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q151713",
+      "name": "Gleumes",
+      "brand": "Gleumes",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q204880",
+      "name": "Licher Privatbrauerei",
+      "brand": "Licher Privatbrauerei",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q204880.png"
+    },
+    {
+      "id": "wd-Q254751",
+      "name": "Flötzinger Bräu Rosenheim",
+      "brand": "Flötzinger Bräu Rosenheim",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1309106",
+      "name": "Einsiedler Brauhaus",
+      "brand": "Einsiedler Brauhaus",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1360601",
+      "name": "Moritz Fiege",
+      "brand": "Moritz Fiege",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1414562",
+      "name": "Wittingen",
+      "brand": "Wittingen",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q1414562.png"
+    },
+    {
+      "id": "wd-Q1453827",
+      "name": "Freiberger Brauhaus",
+      "brand": "Freiberger Brauhaus",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1487794",
+      "name": "Schloßbrauerei Schwarzbach",
+      "brand": "Schloßbrauerei Schwarzbach",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1524208",
+      "name": "Gilde",
+      "brand": "Gilde",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1527803",
+      "name": "Ratsherrn",
+      "brand": "Ratsherrn",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1532749",
+      "name": "Glückauf",
+      "brand": "Glückauf",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1547250",
+      "name": "Grohe",
+      "brand": "Grohe",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q1547250.png"
+    },
+    {
+      "id": "wd-Q1551459",
+      "name": "Gräfliches Hofbrauhaus Freising",
+      "brand": "Gräfliches Hofbrauhaus Freising",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1589080",
+      "name": "Hatz-Moninger Brauhaus",
+      "brand": "Hatz-Moninger Brauhaus",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1614112",
+      "name": "Herrenhausen",
+      "brand": "Herrenhausen",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q1614112.png"
+    },
+    {
+      "id": "wd-Q1614311",
+      "name": "Herrnbräu",
+      "brand": "Herrnbräu",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1615321",
+      "name": "Herzoglich Bayerisches Brauhaus Tegernsee",
+      "brand": "Herzoglich Bayerisches Brauhaus Tegernsee",
+      "category": "beer",
+      "rarity": "uncommon",
+      "logo": "logos/Q1615321.png"
+    },
+    {
+      "id": "wd-Q1709042",
+      "name": "Privat-Brauerei Strate Detmold",
+      "brand": "Privat-Brauerei Strate Detmold",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1721585",
+      "name": "Kaiser Bräu (Neuhaus)",
+      "brand": "Kaiser Bräu (Neuhaus)",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1742438",
+      "name": "Kulmbacher",
+      "brand": "Kulmbacher",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1777966",
+      "name": "Koblenzer",
+      "brand": "Koblenzer",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2111045",
+      "name": "Ernst Barre",
+      "brand": "Ernst Barre",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2233541",
+      "name": "Scherdel Bier",
+      "brand": "Scherdel Bier",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2359534",
+      "name": "Stuttgarter Hofbräu",
+      "brand": "Stuttgarter Hofbräu",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2515161",
+      "name": "Vereinsbrauerei Apolda",
+      "brand": "Vereinsbrauerei Apolda",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2809884",
+      "name": "Zötler",
+      "brand": "Zötler",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q10294254",
+      "name": "Heidelberger",
+      "brand": "Heidelberger",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q15793219",
+      "name": "Bürgerliches Brauhaus Saalfeld",
+      "brand": "Bürgerliches Brauhaus Saalfeld",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q16916607",
+      "name": "Stadtbrauerei Spalt",
+      "brand": "Stadtbrauerei Spalt",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q17053398",
+      "name": "Hofmühl",
+      "brand": "Hofmühl",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q18545015",
+      "name": "Gutmann",
+      "brand": "Gutmann",
+      "category": "beer",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q20182556",
+      "name": "Pyraser",
+      "brand": "Pyraser",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q778904",
+      "name": "Schloss Stein an der Traun",
+      "brand": "Schloss Stein an der Traun",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q805254",
+      "name": "Ballhaus Watzke",
+      "brand": "Ballhaus Watzke",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q819284",
+      "name": "Berg",
+      "brand": "Berg",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q821466",
+      "name": "Berliner Bürgerbräu",
+      "brand": "Berliner Bürgerbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q857934",
+      "name": "Biermanufaktur Engel",
+      "brand": "Biermanufaktur Engel",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900106",
+      "name": "Allersheim",
+      "brand": "Allersheim",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900131",
+      "name": "Brinkhoff",
+      "brand": "Brinkhoff",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900156",
+      "name": "Clemens Härle",
+      "brand": "Clemens Härle",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900176",
+      "name": "Faust Miltenberg",
+      "brand": "Faust Miltenberg",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900187",
+      "name": "Frankenheim",
+      "brand": "Frankenheim",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900219",
+      "name": "Greifenklau",
+      "brand": "Greifenklau",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900226",
+      "name": "Göller",
+      "brand": "Göller",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900232",
+      "name": "Hacklberg",
+      "brand": "Hacklberg",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900306",
+      "name": "Lüdde",
+      "brand": "Lüdde",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900330",
+      "name": "Märkl",
+      "brand": "Märkl",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900339",
+      "name": "Pöllinger",
+      "brand": "Pöllinger",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900376",
+      "name": "Schmitt",
+      "brand": "Schmitt",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900382",
+      "name": "Schumacher",
+      "brand": "Schumacher",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q900400",
+      "name": "Weimar-Ehringsdorf",
+      "brand": "Weimar-Ehringsdorf",
+      "category": "beer",
+      "rarity": "rare",
+      "logo": "logos/Q900400.png"
+    },
+    {
+      "id": "wd-Q991894",
+      "name": "G.A. Bruch",
+      "brand": "G.A. Bruch",
+      "category": "beer",
+      "rarity": "rare",
+      "logo": "logos/Q991894.png"
+    },
+    {
+      "id": "wd-Q1019155",
+      "name": "Bärenquell",
+      "brand": "Bärenquell",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1019732",
+      "name": "Böhmisch Brauhaus Großröhrsdorf",
+      "brand": "Böhmisch Brauhaus Großröhrsdorf",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1021189",
+      "name": "Bürgerliches Brauhaus München",
+      "brand": "Bürgerliches Brauhaus München",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1048121",
+      "name": "Caspary",
+      "brand": "Caspary",
+      "category": "beer",
+      "rarity": "rare",
+      "logo": "logos/Q1048121.png"
+    },
+    {
+      "id": "wd-Q1145709",
+      "name": "Lindenbrauerei",
+      "brand": "Lindenbrauerei",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1156773",
+      "name": "Dachsbräu",
+      "brand": "Dachsbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1166481",
+      "name": "Darmstädter Privatbrauerei",
+      "brand": "Darmstädter Privatbrauerei",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1226524",
+      "name": "Dinkelacker-Schwaben Bräu",
+      "brand": "Dinkelacker-Schwaben Bräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q152161",
+      "name": "Ketschenburg",
+      "brand": "Ketschenburg",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q152169",
+      "name": "im Füchschen",
+      "brand": "im Füchschen",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q154024",
+      "name": "Erzquell",
+      "brand": "Erzquell",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q244637",
+      "name": "Zwiefalter Klosterbräu",
+      "brand": "Zwiefalter Klosterbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q358035",
+      "name": "Adler-Brauerei Coswig",
+      "brand": "Adler-Brauerei Coswig",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q422019",
+      "name": "Aktien-Brauerei-Gesellschaft Friedrichshöhe",
+      "brand": "Aktien-Brauerei-Gesellschaft Friedrichshöhe",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q557112",
+      "name": "Ankerbrauerei",
+      "brand": "Ankerbrauerei",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1250741",
+      "name": "Dortmunder Bergmann",
+      "brand": "Dortmunder Bergmann",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1250816",
+      "name": "Dortmunder Union",
+      "brand": "Dortmunder Union",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1268467",
+      "name": "Hofbrauhaus Berchtesgaden",
+      "brand": "Hofbrauhaus Berchtesgaden",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1268688",
+      "name": "Kronen Privatbrauerei Dortmund",
+      "brand": "Kronen Privatbrauerei Dortmund",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1278616",
+      "name": "Pfungstädter",
+      "brand": "Pfungstädter",
+      "category": "beer",
+      "rarity": "rare",
+      "logo": "logos/Q1278616.png"
+    },
+    {
+      "id": "wd-Q1283441",
+      "name": "Edelweißbrauerei Farny",
+      "brand": "Edelweißbrauerei Farny",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1292898",
+      "name": "Meinel-Bräu",
+      "brand": "Meinel-Bräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1355176",
+      "name": "Erl-Bräu",
+      "brand": "Erl-Bräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1367156",
+      "name": "Eschweger Klosterbrauerei",
+      "brand": "Eschweger Klosterbrauerei",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1402815",
+      "name": "Braunschweig",
+      "brand": "Braunschweig",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1493616",
+      "name": "Gansbräu",
+      "brand": "Gansbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1524226",
+      "name": "Gilden Kölsch",
+      "brand": "Gilden Kölsch",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1532486",
+      "name": "Herforder",
+      "brand": "Herforder",
+      "category": "beer",
+      "rarity": "rare",
+      "logo": "logos/Q1532486.png"
+    },
+    {
+      "id": "wd-Q1541085",
+      "name": "Schloss Bruchhausen",
+      "brand": "Schloss Bruchhausen",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1552546",
+      "name": "Ruppaner-Brauerei Gebrüder Ruppaner",
+      "brand": "Ruppaner-Brauerei Gebrüder Ruppaner",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1583704",
+      "name": "Hanseatische Brauerei Rostock",
+      "brand": "Hanseatische Brauerei Rostock",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1622956",
+      "name": "Hofbrauhaus Wolters",
+      "brand": "Hofbrauhaus Wolters",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1649984",
+      "name": "Klosterbräu Bamberg",
+      "brand": "Klosterbräu Bamberg",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1652532",
+      "name": "Hütt",
+      "brand": "Hütt",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1673225",
+      "name": "Irseer Klosterbräu",
+      "brand": "Irseer Klosterbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1685971",
+      "name": "Leipziger Brauhaus zu Reudnitz",
+      "brand": "Leipziger Brauhaus zu Reudnitz",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1730602",
+      "name": "Schloss Blumenthal",
+      "brand": "Schloss Blumenthal",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1733221",
+      "name": "Löwenbrauerei Passau",
+      "brand": "Löwenbrauerei Passau",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1777013",
+      "name": "Kneitinger",
+      "brand": "Kneitinger",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1788338",
+      "name": "Meckatzer Löwenbräu",
+      "brand": "Meckatzer Löwenbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1803875",
+      "name": "Landskron Brau-Manufaktur",
+      "brand": "Landskron Brau-Manufaktur",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1887996",
+      "name": "Malzfabrik Michael Weyermann",
+      "brand": "Malzfabrik Michael Weyermann",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1980462",
+      "name": "Neufang",
+      "brand": "Neufang",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1980896",
+      "name": "Neumarkter Lammsbräu",
+      "brand": "Neumarkter Lammsbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q2048171",
+      "name": "Palmbräu",
+      "brand": "Palmbräu",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q2052477",
+      "name": "Park & Bellheimer",
+      "brand": "Park & Bellheimer",
+      "category": "beer",
+      "rarity": "rare",
+      "logo": "logos/Q2052477.png"
+    },
+    {
+      "id": "wd-Q2106627",
+      "name": "Pott’s",
+      "brand": "Pott’s",
+      "category": "beer",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q2110996",
+      "name": "Privat-Brauerei Schmucker",
+      "brand": "Privat-Brauerei Schmucker",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2111037",
+      "name": "Gebr. Mayer",
+      "brand": "Gebr. Mayer",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2111039",
+      "name": "Hofmann",
+      "brand": "Hofmann",
+      "category": "beer",
+      "rarity": "epic",
+      "logo": "logos/Q2111039.png"
+    },
+    {
+      "id": "wd-Q2111040",
+      "name": "Braumanufaktur Härke",
+      "brand": "Braumanufaktur Härke",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2152135",
+      "name": "Riegeler",
+      "brand": "Riegeler",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2167041",
+      "name": "Rosenbrauerei Pößneck",
+      "brand": "Rosenbrauerei Pößneck",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2168868",
+      "name": "Rotochsenbrauerei",
+      "brand": "Rotochsenbrauerei",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2223917",
+      "name": "Sanwald",
+      "brand": "Sanwald",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2244456",
+      "name": "Hirschau",
+      "brand": "Hirschau",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2244896",
+      "name": "Rheder",
+      "brand": "Rheder",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2258867",
+      "name": "Schönbuch Braumanufaktur",
+      "brand": "Schönbuch Braumanufaktur",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2345928",
+      "name": "Sternquell",
+      "brand": "Sternquell",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2459061",
+      "name": "Tucher Bräu",
+      "brand": "Tucher Bräu",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2542026",
+      "name": "Waldwirtschaft Großhesselohe",
+      "brand": "Waldwirtschaft Großhesselohe",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2565050",
+      "name": "Westerwald",
+      "brand": "Westerwald",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2651633",
+      "name": "Altes Brauhaus",
+      "brand": "Altes Brauhaus",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2740152",
+      "name": "Kauzen-Bräu",
+      "brand": "Kauzen-Bräu",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q9167494",
+      "name": "Bayerische Aktien-Bierbrauerei Aschaffenburg",
+      "brand": "Bayerische Aktien-Bierbrauerei Aschaffenburg",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q13376839",
+      "name": "Ellingen",
+      "brand": "Ellingen",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q14532175",
+      "name": "Eisenach",
+      "brand": "Eisenach",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q16219114",
+      "name": "Nordbräu",
+      "brand": "Nordbräu",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q16830904",
+      "name": "Colbitzer Heide",
+      "brand": "Colbitzer Heide",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q18907579",
+      "name": "Bayreuther Bierbrauerei",
+      "brand": "Bayreuther Bierbrauerei",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q19310587",
+      "name": "Union",
+      "brand": "Union",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q21036396",
+      "name": "Frankfurter Brauhaus",
+      "brand": "Frankfurter Brauhaus",
+      "category": "beer",
+      "rarity": "epic",
+      "logo": "logos/Q21036396.png"
+    },
+    {
+      "id": "wd-Q28748097",
+      "name": "Hasen-Bräu",
+      "brand": "Hasen-Bräu",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q42773329",
+      "name": "Bergquell-Brauerei Löbau",
+      "brand": "Bergquell-Brauerei Löbau",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q52060253",
+      "name": "Altenauer",
+      "brand": "Altenauer",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q54380026",
+      "name": "Neunspringe",
+      "brand": "Neunspringe",
+      "category": "beer",
+      "rarity": "epic",
+      "logo": "logos/Q54380026.png"
+    },
+    {
+      "id": "wd-Q54826172",
+      "name": "Maxlrain",
+      "brand": "Maxlrain",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q58582683",
+      "name": "Hirsch-Brauerei Honer",
+      "brand": "Hirsch-Brauerei Honer",
+      "category": "beer",
+      "rarity": "epic",
+      "logo": "logos/Q58582683.png"
+    },
+    {
+      "id": "wd-Q62890060",
+      "name": "Wolferstetter",
+      "brand": "Wolferstetter",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q63226381",
+      "name": "Graf Arco",
+      "brand": "Graf Arco",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q5876533",
+      "name": "Hofbräuhaus Traunstein",
+      "brand": "Hofbräuhaus Traunstein",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q106508611",
+      "name": "Dingslebener Privatbrauerei Metzler",
+      "brand": "Dingslebener Privatbrauerei Metzler",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q108046967",
+      "name": "Watzdorfer Traditions- & Spezialitätenbrauerei",
+      "brand": "Watzdorfer Traditions- & Spezialitätenbrauerei",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q110572234",
+      "name": "Bub",
+      "brand": "Bub",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q1402818",
+      "name": "Feldschlößchen",
+      "brand": "Feldschlößchen",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q1583763",
+      "name": "Hansens",
+      "brand": "Hansens",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q102426918",
+      "name": "C. Franz",
+      "brand": "C. Franz",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q900215",
+      "name": "Grasser",
+      "brand": "Grasser",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q1362504",
+      "name": "Rupp-Bräu",
+      "brand": "Rupp-Bräu",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2111033",
+      "name": "Eibau",
+      "brand": "Eibau",
+      "category": "beer",
+      "rarity": "epic",
+      "logo": "logos/Q2111033.png"
+    },
+    {
+      "id": "wd-Q759249",
+      "name": "Auerbräu",
+      "brand": "Auerbräu",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q812397",
+      "name": "Bayerisches Brauereimuseum",
+      "brand": "Bayerisches Brauereimuseum",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q899983",
+      "name": "Brauberger zu Lübeck",
+      "brand": "Brauberger zu Lübeck",
+      "category": "beer",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q900391",
+      "name": "Private Landbrauerei Schönram",
+      "brand": "Private Landbrauerei Schönram",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q900474",
+      "name": "Brauhaase",
+      "brand": "Brauhaase",
+      "category": "beer",
+      "rarity": "legendary",
+      "logo": "logos/Q900474.png"
+    },
+    {
+      "id": "wd-Q900500",
+      "name": "Brauhaus Pfaffenhofen",
+      "brand": "Brauhaus Pfaffenhofen",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q900504",
+      "name": "Brauhaus Sion",
+      "brand": "Brauhaus Sion",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q900510",
+      "name": "Brauhaus am Kreuzberg",
+      "brand": "Brauhaus am Kreuzberg",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1000737",
+      "name": "Marthabräu",
+      "brand": "Marthabräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1019779",
+      "name": "Böhmisches Brauhaus",
+      "brand": "Böhmisches Brauhaus",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1021191",
+      "name": "Bürgerliches Brauhaus Ravensburg-Lindau",
+      "brand": "Bürgerliches Brauhaus Ravensburg-Lindau",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q343261",
+      "name": "Actien-Bierbrauerei zu Reisewitz",
+      "brand": "Actien-Bierbrauerei zu Reisewitz",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q439162",
+      "name": "Altes Brauhaus Rietkötter",
+      "brand": "Altes Brauhaus Rietkötter",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q439166",
+      "name": "Altes Brauhaus zu Fallersleben",
+      "brand": "Altes Brauhaus zu Fallersleben",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1241865",
+      "name": "Donnerbräu",
+      "brand": "Donnerbräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1246395",
+      "name": "Weißbierbrauerei Willner",
+      "brand": "Weißbierbrauerei Willner",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1277693",
+      "name": "Hövels Hausbrauerei",
+      "brand": "Hövels Hausbrauerei",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1321513",
+      "name": "Hochstiftliches Brauhaus Fulda",
+      "brand": "Hochstiftliches Brauhaus Fulda",
+      "category": "beer",
+      "rarity": "legendary",
+      "logo": "logos/Q1321513.png"
+    },
+    {
+      "id": "wd-Q1354245",
+      "name": "Unionsbräu",
+      "brand": "Unionsbräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1386641",
+      "name": "Bürgerbräu Bad Reichenhall",
+      "brand": "Bürgerbräu Bad Reichenhall",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1388950",
+      "name": "Franken Bräu",
+      "brand": "Franken Bräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1398299",
+      "name": "Privat-Brauerei Hohenfelde",
+      "brand": "Privat-Brauerei Hohenfelde",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1404202",
+      "name": "Felsenbräu Thalmannsfeld",
+      "brand": "Felsenbräu Thalmannsfeld",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1452102",
+      "name": "Wagner-Bräu",
+      "brand": "Wagner-Bräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1528970",
+      "name": "Glaabsbräu",
+      "brand": "Glaabsbräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1551656",
+      "name": "Gröningers Braukeller",
+      "brand": "Gröningers Braukeller",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1622953",
+      "name": "Hofbrauhaus Coburg",
+      "brand": "Hofbrauhaus Coburg",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1622954",
+      "name": "Hofbrauhaus Heinrich Brüne",
+      "brand": "Hofbrauhaus Heinrich Brüne",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1663229",
+      "name": "Ingobräu",
+      "brand": "Ingobräu",
+      "category": "beer",
+      "rarity": "legendary",
+      "logo": "logos/Q1663229.png"
+    },
+    {
+      "id": "wd-Q1697649",
+      "name": "Lang-Bräu",
+      "brand": "Lang-Bräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1743548",
+      "name": "Kirner Privatbrauerei",
+      "brand": "Kirner Privatbrauerei",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1743963",
+      "name": "Kitzmann-Bräu",
+      "brand": "Kitzmann-Bräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1879897",
+      "name": "Löwenbrauerei",
+      "brand": "Löwenbrauerei",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1879905",
+      "name": "Löwenbräu Buttenheim",
+      "brand": "Löwenbräu Buttenheim",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1965945",
+      "name": "Nassauische Privatbrauerei",
+      "brand": "Nassauische Privatbrauerei",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q2084311",
+      "name": "Pflugbrauerei Hörvelsingen",
+      "brand": "Pflugbrauerei Hörvelsingen",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q2120918",
+      "name": "Püls-Bräu",
+      "brand": "Püls-Bräu",
+      "category": "beer",
+      "rarity": "legendary",
+      "logo": "logos/Q2120918.png"
+    },
+    {
+      "id": "wd-Q2244899",
+      "name": "Schloßbrauerei Reuth",
+      "brand": "Schloßbrauerei Reuth",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q2258318",
+      "name": "Schäffler Bräu",
+      "brand": "Schäffler Bräu",
+      "category": "beer",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q371068",
+      "name": "Jack Daniel's",
+      "brand": "Jack Daniel's",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q502268",
+      "name": "Johnnie Walker",
+      "brand": "Johnnie Walker",
+      "category": "other",
+      "rarity": "common",
+      "logo": "logos/Q502268.png"
+    },
+    {
+      "id": "wd-Q332378",
+      "name": "Absolut Vodka",
+      "brand": "Absolut Vodka",
+      "category": "other",
+      "rarity": "common",
+      "logo": "logos/Q332378.png"
+    },
+    {
+      "id": "wd-Q685395",
+      "name": "Bacardi",
+      "brand": "Bacardi",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q899150",
+      "name": "Campari",
+      "brand": "Campari",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q285480",
+      "name": "Baileys",
+      "brand": "Baileys",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q777721",
+      "name": "Smirnoff",
+      "brand": "Smirnoff",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q393188",
+      "name": "Żubrówka",
+      "brand": "Żubrówka",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q222787",
+      "name": "Jim Beam",
+      "brand": "Jim Beam",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1035122",
+      "name": "Captain Morgan",
+      "brand": "Captain Morgan",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1411852",
+      "name": "Havana Club",
+      "brand": "Havana Club",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q177092",
+      "name": "Malibu",
+      "brand": "Malibu",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q891834",
+      "name": "Bombay Sapphire",
+      "brand": "Bombay Sapphire",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q1539525",
+      "name": "Stolichnaya",
+      "brand": "Stolichnaya",
+      "category": "other",
+      "rarity": "common"
+    },
+    {
+      "id": "wd-Q508762",
+      "name": "Licor 43",
+      "brand": "Licor 43",
+      "category": "other",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q585992",
+      "name": "Southern Comfort",
+      "brand": "Southern Comfort",
+      "category": "other",
+      "rarity": "uncommon",
+      "logo": "logos/Q585992.png"
+    },
+    {
+      "id": "wd-Q612150",
+      "name": "Underberg",
+      "brand": "Underberg",
+      "category": "other",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1763924",
+      "name": "Beefeater Gin",
+      "brand": "Beefeater Gin",
+      "category": "other",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q1427663",
+      "name": "Freixenet",
+      "brand": "Freixenet",
+      "category": "other",
+      "rarity": "uncommon",
+      "logo": "logos/Q1427663.png"
+    },
+    {
+      "id": "wd-Q1518444",
+      "name": "Vat 69",
+      "brand": "Vat 69",
+      "category": "other",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q762996",
+      "name": "Old Monk",
+      "brand": "Old Monk",
+      "category": "other",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q2453497",
+      "name": "Putinka",
+      "brand": "Putinka",
+      "category": "other",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "wd-Q5713678",
+      "name": "Hendrick’s",
+      "brand": "Hendrick’s",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q4353923",
+      "name": "Vikingfjord Vodka",
+      "brand": "Vikingfjord Vodka",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q4883072",
+      "name": "Arthur Bell & Sons",
+      "brand": "Arthur Bell & Sons",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q461308",
+      "name": "Ratzeputz",
+      "brand": "Ratzeputz",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q7550050",
+      "name": "Sobieski Vodka",
+      "brand": "Sobieski Vodka",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1628822",
+      "name": "Wódka Żołądkowa Gorzka",
+      "brand": "Wódka Żołądkowa Gorzka",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q1354879",
+      "name": "Eristoff",
+      "brand": "Eristoff",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q466591",
+      "name": "Killepitsch",
+      "brand": "Killepitsch",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q2214938",
+      "name": "Ron miel",
+      "brand": "Ron miel",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q695813",
+      "name": "Stock",
+      "brand": "Stock",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q2587685",
+      "name": "Wodka Gorbatschow",
+      "brand": "Wodka Gorbatschow",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q31193096",
+      "name": "Ankara",
+      "brand": "Ankara",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q5451712",
+      "name": "Fireball Cinnamon Whisky",
+      "brand": "Fireball Cinnamon Whisky",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q328914",
+      "name": "Kuemmerling",
+      "brand": "Kuemmerling",
+      "category": "other",
+      "rarity": "rare",
+      "logo": "logos/Q328914.png"
+    },
+    {
+      "id": "wd-Q3269196",
+      "name": "Viru Valge",
+      "brand": "Viru Valge",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q819062",
+      "name": "Berentzen",
+      "brand": "Berentzen",
+      "category": "other",
+      "rarity": "rare"
+    },
+    {
+      "id": "wd-Q12302124",
+      "name": "Arnbitter",
+      "brand": "Arnbitter",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q26883692",
+      "name": "Crystal Head Vodka",
+      "brand": "Crystal Head Vodka",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q35026670",
+      "name": "Don Papa Rum",
+      "brand": "Don Papa Rum",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q1746611",
+      "name": "Kleiner Feigling",
+      "brand": "Kleiner Feigling",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q1793245",
+      "name": "Rachmaninoff",
+      "brand": "Rachmaninoff",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q174112",
+      "name": "Steinhäger",
+      "brand": "Steinhäger",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q25461355",
+      "name": "Kyrö Napue Gin",
+      "brand": "Kyrö Napue Gin",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q1726904",
+      "name": "Puschkin Vodka",
+      "brand": "Puschkin Vodka",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q7312560",
+      "name": "Renat",
+      "brand": "Renat",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q2284493",
+      "name": "Sierra Tequila",
+      "brand": "Sierra Tequila",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q6576309",
+      "name": "Smirnoff Ice",
+      "brand": "Smirnoff Ice",
+      "category": "rtd",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q48799234",
+      "name": "Virginia Black Whiskey",
+      "brand": "Virginia Black Whiskey",
+      "category": "other",
+      "rarity": "epic"
+    },
+    {
+      "id": "wd-Q59334084",
+      "name": "Amargo Chuncho",
+      "brand": "Amargo Chuncho",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q56683130",
+      "name": "Borgoe",
+      "brand": "Borgoe",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q12307077",
+      "name": "Dalwhinnie single malt whisky",
+      "brand": "Dalwhinnie single malt whisky",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q48977591",
+      "name": "Deep Eddy Vodka",
+      "brand": "Deep Eddy Vodka",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q1242581",
+      "name": "Doornkaat",
+      "brand": "Doornkaat",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q11924232",
+      "name": "Gin Xoriguer",
+      "brand": "Gin Xoriguer",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q5603215",
+      "name": "Green Spot",
+      "brand": "Green Spot",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q111385100",
+      "name": "Greenall's Gin",
+      "brand": "Greenall's Gin",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q3311331",
+      "name": "Micheline",
+      "brand": "Micheline",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q11802565",
+      "name": "Pan Tadeusz",
+      "brand": "Pan Tadeusz",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q14322262",
+      "name": "Schylger Jutters-Bitter",
+      "brand": "Schylger Jutters-Bitter",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q65117300",
+      "name": "Tip van Bootz",
+      "brand": "Tip van Bootz",
+      "category": "other",
+      "rarity": "legendary"
+    },
+    {
+      "id": "wd-Q138119896",
+      "name": "Vodka Legend of Kremlin",
+      "brand": "Vodka Legend of Kremlin",
+      "category": "other",
+      "rarity": "legendary"
+    }
+  ]
+}
